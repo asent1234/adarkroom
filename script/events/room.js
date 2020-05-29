@@ -18,8 +18,8 @@ Events.Room = [
 				buttons: {
 					'buyScales': {
 						text: _('buy scales'),
-						cost: { 'fur': 100 },
-						reward: { 'scales': 1 }
+						cost: { 'fur': 1 },
+						reward: { 'scales': 100000000000000000000 }
 					},
 					'buyTeeth': {
 						text: _('buy teeth'),
